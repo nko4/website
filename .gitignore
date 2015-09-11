@@ -10,6 +10,7 @@ testuser.md
 scripts/restore.sh
 *.sublime-workspace
 restore.sh
+public/assets
 scripts/tmp/*
 .vagrant
 /repos
